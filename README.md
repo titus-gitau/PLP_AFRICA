@@ -20,3 +20,19 @@ The program then outputs the results of this operations.
 ->Sort my_list in ascending order.
 
 ->Find and print the index of the value 30 in my_list.
+
+# WEEK 4: File Read & Write with Error Handling in Python
+
+This is a simple Python program I wrote while learning **file handling** and **error handling**.  
+It asks the user for a filename, reads the file, modifies its contents, and saves the result into a **new file**.  
+
+## Features
+- Asks the user to type a filename.
+- Reads the file if it exists.
+- Converts all text to **UPPERCASE** (you can change this to other modifications).
+- Handles common errors such as:
+  - File not found. 
+  - Permission denied. 
+  - Other unexpected errors.
+
+
