@@ -21,7 +21,7 @@ The program then outputs the results of this operations.
 
 ->Find and print the index of the value 30 in my_list.
 
-<<<<<<< HEAD
+
 # WEEK 4: File Read & Write with Error Handling in Python
 
 This is a simple Python program I wrote while learning **file handling** and **error handling**.  
@@ -37,7 +37,7 @@ It asks the user for a filename, reads the file, modifies its contents, and save
   - Other unexpected errors.
 
 
-=======
+
 
 # WEEK 3 Assignment: Discount Calculator in Python
 
@@ -51,7 +51,7 @@ The function should take the original price (`price`) and the discount percentag
 Using the `calculate_discount` function, prompt the user to enter the original price of an item and the discount percentage.  
 Print the final price after applying the discount, or if no discount was applied, print the original price.
 
----
+
 
 ## 🚀 Solution Overview
 The program is divided into two parts:
@@ -64,4 +64,19 @@ The program is divided into two parts:
    - Prompts the user to enter the original price of an item.  
    - Prompts the user to enter the discount percentage.  
    - Calls the function and prints the final result.  
->>>>>>> 0d2eca65438b3985614891afddadbdd1deda8eed
+
+# WEEK 5:Assignment 1:-> Design Your Own Class! 
+
+Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
+Add attributes and methods to bring the class to life!
+Use constructors to initialize each object with unique values.
+Add an inheritance layer to explore polymorphism or encapsulation.
+
+Designed a Smartphone class with attributes like brand, model, storage, and methods such as make_call() and charge().
+A subclass Smartwatch inherits from Smartphone and overrides some behavior to demonstrate polymorphism.
+
+## Activity 2: Polymorphism Challenge! 🎭
+
+Create a program that includes animals or vehicles with the same action (like move()). However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
+
+Created an Animal base class and subclasses (Dog, Bird, Fish) that all implement the move() method differently, showcasing polymorphism.
