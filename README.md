@@ -22,6 +22,20 @@ The program then outputs the results of this operations.
 ->Find and print the index of the value 30 in my_list.
 
 
+
+# WEEK 3 Assignment: Discount Calculator in Python
+
+## 📌 Assignment Description
+Create a function named `calculate_discount(price, discount_percent)` that calculates the final price after applying a discount.  
+The function should take the original price (`price`) and the discount percentage (`discount_percent`) as parameters.  
+
+- If the discount is **20% or higher**, apply the discount.  
+- Otherwise, return the original price.  
+
+Using the `calculate_discount` function, prompt the user to enter the original price of an item and the discount percentage.  
+Print the final price after applying the discount, or if no discount was applied, print the original price.
+
+
 # WEEK 4: File Read & Write with Error Handling in Python
 
 This is a simple Python program I wrote while learning **file handling** and **error handling**.  
@@ -35,6 +49,7 @@ It asks the user for a filename, reads the file, modifies its contents, and save
   - File not found. 
   - Permission denied. 
   - Other unexpected errors.
+
 
 
 
@@ -80,3 +95,4 @@ A subclass Smartwatch inherits from Smartphone and overrides some behavior to de
 Create a program that includes animals or vehicles with the same action (like move()). However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
 
 Created an Animal base class and subclasses (Dog, Bird, Fish) that all implement the move() method differently, showcasing polymorphism.
+
