@@ -80,3 +80,41 @@ Create a program that includes animals or vehicles with the same action (like mo
 
 Created an Animal base class and subclasses (Dog, Bird, Fish) that all implement the move() method differently, showcasing polymorphism.
 
+
+# Week 7 Assignment: Data Analysis with Pandas & Visualization with Matplotlib
+
+## 🎯 Assignment Objectives
+- Load and explore a dataset using **Pandas**.  
+- Perform **basic data analysis** such as summary statistics and grouping.  
+- Create **visualizations with Matplotlib**, including:  
+  - Line chart  
+  - Bar chart    
+  - Scatter plot  
+- Document findings and observations.
+
+
+## 📚 Tasks Completed
+1. **Dataset Loading & Cleaning**  
+   - Loaded a CSV dataset.  
+   - Checked data structure, data types, and missing values.  
+   - Cleaned dataset by handling missing data.  
+
+2. **Basic Analysis**  
+   - Calculated mean, median, standard deviation, and other descriptive statistics.  
+   - Grouped data by a categorical column and calculated averages.  
+   - Identified simple patterns and insights.  
+
+3. **Visualizations**  
+   - **Line Chart** to show trends over time.  
+   - **Bar Chart** comparing averages across categories.  
+   - **Scatter Plot** showing relationship between two numerical variables.  
+
+4. **Findings**  
+   - Group averages showed clear category differences.    
+   - Scatter plots made visible relationships between features.  
+
+
+## ✅ Outcome
+This assignment demonstrated how **Pandas** can be used for data cleaning and analysis, and how **Matplotlib** helps bring out insights visually.  
+The combination of the two provides both **statistical understanding** and **visual interpretation** of data.  
+
